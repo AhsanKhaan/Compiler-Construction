@@ -1,0 +1,8 @@
+(identifier,char,1)
+(identifier,c,1)
+(Assignment Operator,:,1)
+(iv,'g4,1)
+(iv,'vg,1)
+(invalid,\,1)
+(line Change char,\r,1)
+($,$,2)
